@@ -1,6 +1,6 @@
 # TelegramWeatherBot
 
-BE AWARE! THIS IS AN OLD PROJECT BASED ON v13.2.1 BOT API AND PORTED TO v15.7.1, SOMETHING MAY NOT WORK AS EXPECTED.
+BE AWARE! THIS IS A ***VERY OLD PROJECT*** BASED ON v13.2.1 BOT API AND PORTED TO v15.7.1, SOMETHING MAY NOT WORK AS EXPECTED.
 
 Телеграм Бот который показывает текущую погоду и прогноз, основываясь на текущей геолокации или названии города. Для получения данных о погоде используется OpenWeather API.
 
